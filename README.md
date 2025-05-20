@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👩🏻‍💻 Rafaele Miranda  
 
-<!--
-**rafaele-miranda/rafaele-miranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de engenharia da computação e entusiasta por tecnologia. Busco oportunidades para contribuir com projetos e aprender novas habilidades.  
 
-Here are some ideas to get you started:
+## 🔗 Portfólio  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🐈 Vet Sistema  
+CRUD desenvolvido em **Python/Django** para gestão de clínicas veterinárias.  
+
+**Features**:  
+- Cadastro de pets, tutores, consultas, medicamentos e procedimentos.  
+- Autenticação de usuários (veterinários e administradores).  
+- Relatório do histórico do pet.  
+- Dashboard com histórico de atendimentos, internações e medicamentos.  
+
+**Tecnologias**: Python, Django, SQLite.  
+**Repositório**: [vet_sistema](https://github.com/rafaele-miranda/vet_sistema)  
